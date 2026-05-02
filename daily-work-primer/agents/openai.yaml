@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Work Primer"
+  short_description: "Daily planning for AI solo operators."
+  default_prompt: "Help me set the tone for today, find the main contradiction, choose the main battlefield, and turn it into a focused daily work plan."
